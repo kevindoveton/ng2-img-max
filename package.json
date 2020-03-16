@@ -31,7 +31,7 @@
     ],
     "dependencies": {
         "exif-js": "^2.3.0",
-        "ng2-pica": "^1.2.12"
+        "ng2-pica": "1.2.12"
     },
     "peerDependencies": {
         "@angular/core": "^6.0.4",
